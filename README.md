@@ -2,7 +2,7 @@ With this app you can choose a color and get its hex code. You can generate seve
 
 You can save your colors and then upload them, as well.
 
-When you write in the hex code label your color code, you can see appropriate color in the rectangle. If you wright one of the following color names it works:
+When you enter your color code in the field, it will be reflected in the box. If you wright one of the following color names it works:
     
           red: #FF0000,
           
