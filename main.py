@@ -26,6 +26,7 @@ def load_colors():
 
 
 root = ctk.CTk()
+root.title("Генератор цветов")
 
 menu = tk.Menu(root)
 root.configure(menu=menu)
